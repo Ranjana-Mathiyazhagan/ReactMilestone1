@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+ /* Milestone task */
+
+ img{
+  height: 100px;
+  width: 100px;
+ }
+ /* table .table tr,.table td{
+     border: 1px solid rgb(136, 135, 135);
+ } */
+ 
+ .button-size{
+  width: 10px;
+  height: 30px;
+ }
+ .borders{
+  border-bottom: 2px solid rgb(49, 48, 48);
+ }
+ .dis-img{
+  width: 150px;
+  height: 450px;
+ }
